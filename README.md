@@ -37,8 +37,8 @@ Narayani Enterprise is a private company that specializes in providing high-qual
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/narayani-enterprise.git`
-2. Navigate to the project directory: `cd narayani-enterprise`
+1. Clone the repository: `git clone https://github.com/AyushKumar15082001/Enterprise_Website.git`
+2. Navigate to the project directory: `cd Enterprise_Website`
 
 ## Contributing
 
