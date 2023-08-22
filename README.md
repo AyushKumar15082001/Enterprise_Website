@@ -2,6 +2,12 @@
 
 Welcome to the official repository for the Narayani Enterprise website! This project was developed by Ayush Kumar, a freelance web developer, using HTML, CSS, JavaScript, and PHP. The website is designed to showcase the products and services offered by Narayani Enterprise.
 
+# Deployment
+The Website is currently deployed at [https://narayani-enterprises.com/](https://narayani-enterprises.com/)
+
+# Preview
+![image](https://github.com/AyushKumar15082001/Enterprise_Website/assets/118304566/10a66680-8ac0-43af-96cb-c001b1e3884b)
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -40,7 +46,7 @@ This project is not open for external contributions as it was developed for a sp
 
 ## Contact Information
 
-For any inquiries or questions, please contact Ayush Kumar at ayush.k1501@gmail.com. You can also visit the live website at [narayani-enterprise.com](http://www.narayani-enterprise.com).
+For any inquiries or questions, please contact Ayush Kumar at ayush.k1501@gmail.com. You can also visit the live website at [narayani-enterprises.com](https://narayani-enterprises.com/).
 
 ---
 
